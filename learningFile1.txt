@@ -34,5 +34,7 @@ Git push origin secondbranch\
 \
 7.git push origin secondbranch:firstbranch.\
 \
+8. git push --set-upstream origin secondbranch.\
+\
 \
 }
