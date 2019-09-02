@@ -42,5 +42,9 @@ Git push origin secondbranch\
 \
 11. Let\'92s make some change.\
 \
+To pull the data from firstbranch \
+\
+git pull origin firstbranch\
+\
 \
 }
