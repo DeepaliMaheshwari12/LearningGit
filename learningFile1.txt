@@ -27,6 +27,12 @@ Git branch\
 \
 Git Branch -d secondbranch\
 \
+6. To create a new branch from another branch\
+\
+Git checkout -b secondbranch firstbranch\
+Git push origin secondbranch\
+\
+7.git st\
 \
 \
 }
