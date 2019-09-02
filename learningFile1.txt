@@ -32,7 +32,7 @@ Git Branch -d secondbranch\
 Git checkout -b secondbranch firstbranch\
 Git push origin secondbranch\
 \
-7.git push origin secondbranch:firstbranch\
+7.git push origin secondbranch:firstbranch.\
 \
 \
 }
