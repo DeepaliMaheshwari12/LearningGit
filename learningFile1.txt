@@ -36,5 +36,7 @@ Git push origin secondbranch\
 \
 8. git push --set-upstream origin secondbranch.\
 \
+9. Now trying to get the latest from firstbranch.\
+\
 \
 }
