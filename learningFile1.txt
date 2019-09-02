@@ -17,7 +17,7 @@ git branch\
 3. Command to push the new branch to git\
 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-git push -u origin firstbranch\
+\cf2 git push -u origin firstbranch\
 \
 4. Command to check which branch you are in\
 \
@@ -39,6 +39,8 @@ Git push origin secondbranch\
 9. Now trying to get the latest from firstbranch.\
 \
 10 git pull origin firstbranch\
+\
+11. Let\'92s make some change.\
 \
 \
 }
