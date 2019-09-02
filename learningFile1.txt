@@ -38,5 +38,7 @@ Git push origin secondbranch\
 \
 9. Now trying to get the latest from firstbranch.\
 \
+10 git pull origin firstbranch\
+\
 \
 }
